@@ -88,12 +88,12 @@ export default {
   }
   .filter {
     .icon {
-      background-image: url("https://img.midukanshu.com/browser/h5/icon/filter.png");
+      background-image: url("https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/filter.png");
     }
   }
   .font {
     .icon {
-      background-image: url("https://img.midukanshu.com/browser/h5/icon/font.png");
+      background-image: url("https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/font.png");
     }
   }
 }

@@ -23,7 +23,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/1-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/1-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -48,7 +48,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/2-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/2-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -73,7 +73,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/3-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/3-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -98,7 +98,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/4-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/4-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -123,7 +123,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/5-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/5-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -148,7 +148,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/6-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/6-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -173,7 +173,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/7-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/7-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },
@@ -198,7 +198,7 @@ const xuanhuan = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xuanhuan/8-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xuanhuan/8-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #000)',
       },
     },

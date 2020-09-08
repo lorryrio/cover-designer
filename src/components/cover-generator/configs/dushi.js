@@ -23,7 +23,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/1-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/1-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -48,7 +48,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/2-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/2-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -73,7 +73,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/3-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/3-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -98,7 +98,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/4-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/4-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -123,7 +123,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/5-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/5-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -148,7 +148,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/6-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/6-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -173,7 +173,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/7-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/7-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -198,7 +198,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/8-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/8-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -223,7 +223,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/9-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/9-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -248,7 +248,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/10-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/10-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -273,7 +273,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/11-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/11-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -298,7 +298,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/12-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/12-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -323,7 +323,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/13-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/13-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -348,7 +348,7 @@ const dushi = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/dushi/14-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/dushi/14-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },

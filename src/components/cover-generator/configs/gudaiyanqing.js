@@ -23,7 +23,7 @@ const gudaiyanqing = {
       },
       padding: 48,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/1-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/1-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -48,7 +48,7 @@ const gudaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/2-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/2-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -73,7 +73,7 @@ const gudaiyanqing = {
       },
       padding: 7,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/3-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/3-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -98,7 +98,7 @@ const gudaiyanqing = {
       },
       padding: 7,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/4-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/4-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -123,7 +123,7 @@ const gudaiyanqing = {
       },
       padding: 30,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/5-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/5-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -148,7 +148,7 @@ const gudaiyanqing = {
       },
       padding: 48,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/6-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/6-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -173,7 +173,7 @@ const gudaiyanqing = {
       },
       padding: 48,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/7-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/7-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -198,7 +198,7 @@ const gudaiyanqing = {
       },
       padding: 7,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/8-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/8-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -223,7 +223,7 @@ const gudaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/9-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/9-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #fff)"
       },
     },
@@ -248,7 +248,7 @@ const gudaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/gudaiyanqing/10-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/gudaiyanqing/10-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #fff)"
       },
     },

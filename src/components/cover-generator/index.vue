@@ -152,7 +152,7 @@ export default {
     },
     initFilter() {
       const link = document.createElement('link');
-      link.href = 'https://img.midukanshu.com/activity/cover-designer/cssgram.min.css';
+      link.href = 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cssgram.min.css';
       link.rel = 'stylesheet';
       document.head.appendChild(link);
     },

@@ -23,7 +23,7 @@ const nvpin = {
       },
       padding: 70,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xiandaiyanqing/15-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/15-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -48,7 +48,7 @@ const nvpin = {
       },
       padding: 70,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xiandaiyanqing/16-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/16-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },
@@ -73,7 +73,7 @@ const nvpin = {
       },
       padding: 70,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/xiandaiyanqing/17-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/17-cover.png',
         // textBackground: "linear-gradient(to bottom, transparent 50%, #333046)"
       },
     },

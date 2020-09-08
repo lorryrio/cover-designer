@@ -23,7 +23,7 @@ const nanpin = {
       },
       padding: 44,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/nan/1-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/nan/1-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -48,7 +48,7 @@ const nanpin = {
       },
       padding: 220,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/nan/3-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/nan/3-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -73,7 +73,7 @@ const nanpin = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://img.midukanshu.com/browser/h5/cover/nan/2-cover.png',
+        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/nan/2-cover.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
