@@ -58,11 +58,6 @@ export default {
       return !/vertical/.test(this.app.template);
     },
   },
-  // watch: {
-  //   rangeUnique(value) {
-  //     this.app.titleStyleList.length = value.length;
-  //   },
-  // },
   methods: {
     onChange(e) {
       this.$emit('input', e);
