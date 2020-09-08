@@ -206,7 +206,6 @@ export default {
         console.info('字体存在，走本地缓存');
         return;
       }
-      fontCache.push(cacheKey);
 
       const query = {
         fontName: font,
@@ -216,6 +215,7 @@ export default {
         const res = await axios.post(`${baseUrl}/fontmin/compress`, query);
         if (res.data.data.code === 0) {
           this.createFontStyle(res.data.data.data);
+          fontCache.push(cacheKey);
         }
       } catch (err) {
         console.error('字体压缩服务异常！');

@@ -44,8 +44,8 @@ export default {
       const min = i - count;
       let temp;
       let index;
-      i -= 1;
-      while (i > min) {
+      // eslint-disable-next-line no-plusplus
+      while (i-- > min) {
         index = Math.floor((i + 1) * Math.random());
         temp = shuffled[index];
         shuffled[index] = shuffled[i];
