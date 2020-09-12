@@ -103,7 +103,7 @@ export default {
     };
   },
   mounted() {
-    this.initFilter();
+    // this.initFilter();
     this.init();
     this.updateFont(this.title.titleText, this.title.font);
     this.updateFont(`${this.author.authorText}著`, '新文宋');
@@ -150,12 +150,12 @@ export default {
         this.titleStyleList = [true, true, true];
       }
     },
-    initFilter() {
-      const link = document.createElement('link');
-      link.href = 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cssgram.min.css';
-      link.rel = 'stylesheet';
-      document.head.appendChild(link);
-    },
+    // initFilter() {
+    //   const link = document.createElement('link');
+    //   link.href = 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cssgram.min.css';
+    //   link.rel = 'stylesheet';
+    //   document.head.appendChild(link);
+    // },
     async show() {
       this.loading = true;
       const dataUrl = await this.exportBase64();
@@ -253,7 +253,9 @@ export default {
   },
 };
 </script>
-
+<style lang="scss">
+@import "./cssgram.min.css";
+</style>
 <style scoped lang="scss">
 .cover-generator {
   width: 300px;
