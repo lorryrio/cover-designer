@@ -23,7 +23,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/1-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKZ24.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -48,7 +48,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/2-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKexJ.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -73,7 +73,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/3-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKnM9.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -98,7 +98,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/4-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKVGF.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -123,7 +123,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/5-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKEPU.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -148,7 +148,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/6-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKQVx.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -173,7 +173,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/7-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBK8PO.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -198,7 +198,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/8-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBK1IK.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -223,7 +223,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/9-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKKq1.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -248,7 +248,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/10-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKla6.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -273,7 +273,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/11-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKGGD.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -298,7 +298,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/12-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKNMd.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -323,7 +323,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/13-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKYxH.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
@@ -348,7 +348,7 @@ const xiandaiyanqing = {
       },
       padding: 20,
       background: {
-        backgroundImage: 'https://raw.githubusercontent.com/lorryrio/godblesslorry.github.io.images/master/images/cover/xiandaiyanqing/14-cover.png',
+        backgroundImage: 'https://s1.ax1x.com/2020/09/13/wBKUsA.png',
         textBackground: 'linear-gradient(to bottom, transparent 50%, #333046)',
       },
     },
