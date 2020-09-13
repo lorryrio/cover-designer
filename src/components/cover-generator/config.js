@@ -51,6 +51,6 @@ const filter = [
   'xpro2',
 ];
 
-const baseUrl = 'http://29397479-1732053286884989.test.functioncompute.com';
+const baseUrl = 'https://29397479-1732053286884989.test.functioncompute.com';
 
 export { config, filter, baseUrl };
